@@ -6,9 +6,11 @@ public class Main {
 
         System.out.println(celeMeno + "pracuje v ..." + firma);
         System.out.println("Hello World");
-        System.out.println("TM");
+
         //TODO Vypis svoje meno
         System.out.println(name);
+
+        int cislo = 5;
 
         final float dph = 0.23f;        // vytvorili (zadefinovali) sme konštantu s nazvom DPH
         final double inflacia = 0.10;   // / vytvorili (zadefinovali) sme konštantu s nazvom inflacia
