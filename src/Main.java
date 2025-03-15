@@ -5,7 +5,7 @@ public class Main {
         String firma = "SSD";
 
         System.out.println(celeMeno + "pracuje v ..." + firma);
-        System.out.println("Hello World");
+
 
         //TODO Vypis svoje meno
         System.out.println(name);
