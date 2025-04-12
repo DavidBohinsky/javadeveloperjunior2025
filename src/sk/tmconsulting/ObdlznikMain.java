@@ -1,3 +1,5 @@
+package sk.tmconsulting;
+
 import java.util.Scanner;
 
 public class ObdlznikMain {
