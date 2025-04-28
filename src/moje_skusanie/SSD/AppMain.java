@@ -51,6 +51,10 @@ public class AppMain {
                 double prevodAKw = Double.parseDouble(a_na_kw_tf.getText());
                 a_na_kw_tf.setLayout(new FlowLayout());
 
+            JTextField a_na_kw_tf = new JTextField();
+            double prevodAKw = Double.parseDouble(a_na_kw_tf.getText());
+            a_na_kw_tf.setLayout(new FlowLayout());
+
                 prevod_f.add(a_na_kw_tf);
 
                 prevod_f.setVisible(true);
